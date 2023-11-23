@@ -1,6 +1,6 @@
 > requiremernts:
 
-python (any version)
+  1) python (any version)
 
 > Instructions:
 
