@@ -1,2 +1,2 @@
 # WindowsOS_pyscripts
-Python Scripts used in linux systems
+Python Scripts used in Windows systems
