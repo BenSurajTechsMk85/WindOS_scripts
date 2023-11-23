@@ -13,5 +13,5 @@ python (any version)
    1) Copy all files the '-pyscripts_windOs' and paste over a folder.
    2) Once done copying the file, create a shortcut. (By right click over the file and select 'Create shortcut')
    3) Move the shortcut to the system 'Startup' folder.
-    (eg startup path:  C:\Users\USER\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
+    (example startup path:  C:\Users\USER\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
 
